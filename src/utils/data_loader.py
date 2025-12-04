@@ -6,10 +6,9 @@ class DataLoader:
     Clase para manejar la carga y procesamiento inicial de datos.
     """
     def __init__(self):
-        self.data1 = None
-        self.data2 = None
-
-    def load_csv_data(self, uploaded_file):
+        pass
+    
+    def load_csv_data(self, uploaded_file) -> pd.DataFrame:
         """
         Carga datos desde un archivo CSV subido a través de Streamlit.
 
