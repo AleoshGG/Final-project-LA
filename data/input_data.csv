@@ -1,2 +1,27 @@
 Frases
 si contador es_mayor Que diez inicio mientras repite imprimir saludo hasta contador fin VARjeje VARRRR
+inicio VARcontador mientras VARcondicion repite fin
+si VARa imprimir VARb sino imprimir VARc
+inicio VARx es_mayor VARy fin
+mientras VARiterator repite imprimir VARmensaje hasta VARlimite
+si VARvalido VARNoValido VAR123 error
+inicio repite repite fin
+imprimir VARhola mundo esto es un error
+VARa VARb VARc VARd VARe
+sino imprimir VARerror si VARfalso
+10 20 30 + - * /
+VARvariable VAR_guion_bajo VARMayuscula
+si VARx repite hasta VARy imprimir VARz
+inicio var_minuscula VARCorrecto fin
+mientras 1 repite 0
+fin inicio si sino
+VARa VARbb VARccc inicio fin
+VAR1 VAR_2 VARA VAR
+si SI sI SiNo
+imprimir VARimpresora mientras 100
+hola mundo esto es prueba
+VARlargo VARcort VAR
+123 456 789 0
+VARtrue VARfalse boolean string int
+inicio inicio inicio fin fin fin
+@var #id $money %percent
